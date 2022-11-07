@@ -13,15 +13,15 @@ public class GitHubMaster {
 		// TODO Auto-generated method stub
 
 	}
-	private void method4() {
+	private void method7() {
 		// TODO Auto-generated method stub
 
 	}
-	private void method5() {
+	private void method8() {
 		// TODO Auto-generated method stub
 
 	}
-	private void method6() {
+	private void method9() {
 		// TODO Auto-generated method stub
 
 	}
